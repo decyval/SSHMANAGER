@@ -58,5 +58,8 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 
 ☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
 ```
+Solucionar erro para adicionar servidores:
+
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v10/revenda/confpainel/inst > /dev/null 2>&1; bash inst
 
 **By: [ FULL SCRIPTS ⃘⃤꙰✰ ]**
